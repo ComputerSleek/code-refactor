@@ -4,12 +4,12 @@
  
 This is a project for Horiseon Full Services, a seach engine optimization company that specializes in online reputation management and social media marketing.  
 
-This project was edited from another repository to simplify and bring cohesiveness to it.  More specifically, changing the <div> tags to semantic tags.  
+This project was edited from another repository to simplify and bring cohesiveness to it.  More specifically, changing the div tags to semantic tags.  
 
 Semantic tags are needed to provide meaning but I ran into some challenges as I still need further comprehension on how they work.  My difficulty was finding the html match on the css sheet and having them change easily. The aside panel was the most difficult for me to maneuver.
-
+```md
 ![alt text](assets/images/screenshpt.png)
-
+```
 Website link: https://computersleek.github.io/code-refactor/
 
 ## Usage 
