@@ -8,19 +8,13 @@ This project was edited from another repository to simplify and bring cohesivene
 
 Semantic tags are needed to provide meaning but I ran into some challenges as I still need further comprehension on how they work.  My difficulty was finding the html match on the css sheet and having them change easily. The aside panel was the most difficult for me to maneuver.
 
-Website link:
+Website link: https://computersleek.github.io/code-refactor/
 
 ## Usage 
 
 Forking is permissible.  You may clone it to your repository and edit at your discretion.  
 
-git clone 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+git clone git@github.com:ComputerSleek/code-refactor.git
 
 ## Credits
 
